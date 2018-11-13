@@ -89,7 +89,7 @@
   * [eth/filters](eth/ethfilters.md)
   * [eth/gasprice](eth/ethgasprice.md)
   * [ethstats](eth/ethstats.md)
-  * [eth/tracers    ](eth/ethtracers.md)
+  * [eth/tracers](eth/ethtracers.md)
   * [eth/tracers/internal/tracers    ](eth/ethtracersinternaltracers.md)
 * [event](event/README.md)
 * [internal](internal/README.md)
