@@ -1,8 +1,9 @@
-# ethereum_practice
+# ethereum\_practice
+
 本文主要从代码的角度分析以太坊协议的实现
 
-> tips
-目录结构需要重新排版
+> tips  
+> 目录结构需要重新排版
 
 ## 快速浏览
 
@@ -176,4 +177,6 @@
   * [whisper/mailserver](wisper/whispermailserver.mdm)
   * [whisper/shhclient](wisper/whispershhclient.md)
   * [whisper/whisperv5](wisper/whisperwhisperv5.md)
+
+
 
