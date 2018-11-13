@@ -85,7 +85,7 @@
   * [ethstats](eth/ethstats.md)
   * [eth/tracers    ](eth/ethtracers.md)
   * [eth/tracers/internal/tracers    ](eth/ethtracersinternaltracers.md)
-* [event](README.md)
+* [event](event/README.md)
 * [internal](internal/README.md)
   * [internal/build](internal/internalbuild.md)
   * [internal/cmdtest](internal/internalcmdtest.md)
@@ -99,7 +99,7 @@
   * [les/flowcontrol](les/lesflowcontrol.md)
 * [light](light/README.md)
 * [log](log/README.md)
-* [metrics    ](metrics.md)
+* [metrics](metrics/README.md)
   * [metrics/exp](metrics/metricsexp.md)
   * [metrics/influxdb](metrics/metricsinfluxdb.md)
   * [metrics/librato](metrics/metricslibrato.md)
@@ -166,8 +166,8 @@
   * [swarm/tracing](swarm/swarmtracing.md)
   * [swarm/version](swarm/swarmversion.md)
 * [trie](trie/README.md)
-*[whisper](wisper/README.md)
-  * whisper/mailserver
-  * whisper/shhclient
-  * whisper/whisperv5
+* [whisper](wisper/README.md)
+  * [whisper/mailserver](wisper/whispermailserver.mdm)
+  * [whisper/shhclient](wisper/whispershhclient.md)
+  * [whisper/whisperv5](wisper/whisperwhisperv5.md)
 
