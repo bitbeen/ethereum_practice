@@ -75,7 +75,7 @@ type Event struct {
     Inputs    Arguments
 }
 ```
->event
+>event:当evm执行交交易会event的形式触发一个事件
 ```json
     {
             "anonymous": false,
